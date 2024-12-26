@@ -1,0 +1,31 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "API REST example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfalanga/expressjs.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "rest",
+    "node",
+    "javascript"
+  ],
+  "author": "Leandro Falanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfalanga/expressjs/issues"
+  },
+  "homepage": "https://github.com/lfalanga/expressjs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
